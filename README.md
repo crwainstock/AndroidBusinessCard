@@ -15,3 +15,5 @@ This app uses a column structure to organize the content on the screen. There ar
 Whew! This little guy took a while to put together. And honestly, the most challenging aspect was how slowly Android Studio is on my computer. 😣 But! With some patience, I got through it and put it together.
 
 Another challenge for me is how tedious using Android Studio feels sometimes. I don't know if it's my settings (I had to turn on power saving mode to make things work slightly more quickly), but importing all of the ui elements and other things that are needed to put everything together is kind of a hassle.
+
+More reflection to come...
